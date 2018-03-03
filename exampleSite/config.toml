@@ -66,6 +66,9 @@ hasCJKLanguage = false
 	title404 = ""
 	subtitle404 = ""
 
+	# Display the "Powered By" block
+	display_powered_by = true
+
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
